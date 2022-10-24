@@ -8,11 +8,11 @@
 
 ## Table of Contents
 
-[🔵 ***Officers***](##officers)
+[🔵 ***Officers***](##Officers)
 
-[🟢 ***Staff***](##staff)
+[🟢 ***Staff***](##Staff)
 
-[🟡 ***Community***](##community)
+[🟡 ***Community***](##Community)
 
 ## **Officers**
 
